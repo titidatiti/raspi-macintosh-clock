@@ -1,0 +1,4 @@
+[Desktop Entry]
+Type=Application
+Name=Program
+Exec=chromium-browser --noerrdialogs --disable-infobars --kiosk https://r.cwbeta.com/?id=30
