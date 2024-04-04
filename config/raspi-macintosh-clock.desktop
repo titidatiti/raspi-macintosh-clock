@@ -1,4 +1,4 @@
 [Desktop Entry]
 Type=Application
 Name=Program
-Exec=chromium-browser --noerrdialogs --disable-infobars --kiosk https://r.cwbeta.com/?id=30
+Exec=chromium-browser --noerrdialogs --disable-infobars --kiosk https://tools.cwbeta.com/raspi-macintosh-clock/
