@@ -3,7 +3,7 @@ autostart_file="/boot/config.txt"
 
 # Copy 3.5inch dpi drivers (https://www.waveshare.net/wiki/3.5inch_DPI_LCD) to raspbian
 echo "Copy 3.5inch dpi drivers..."
-cp 3.5DPI-dtbo/* /boot/overlays/
+sudo cp 3.5DPI-dtbo/* /boot/overlays/
 
 # Add configs
 valid_choice=false
